@@ -1,1 +1,1 @@
-# .github
+# Welcome to the UWMSA's GitHub
