@@ -1,1 +1,1 @@
-# 👋 Welcome to the UWMSA GitHub
+# GitHub Profile
